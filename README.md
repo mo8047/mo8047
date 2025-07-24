@@ -1,38 +1,35 @@
 # 👋 Hi, I'm Muhammad Hasan
 
-🚀 Computer Science Student
-📈 Focused on building real projects, sharpening my Python skills, and getting ready for real world implementation.
+**Computer Science Student** focused on building real projects, sharpening Python skills, and getting internship-ready.
 
 ---
 
-## 🛠️ Tech Stack
-- Python 🐍 (main)
-- GitHub 🔧
-- Basic HTML/CSS 🌐
-- Basic C/Java
+## 🛠 Tech Stack
+- Python 🐍 • Git & GitHub 🔧 • HTML/CSS • Basic C/Java  
 - Currently learning: Web Dev & Algorithms
 
 ---
 
-## 🚧 Current Projects
-- Learning Python by building daily apps and exciting programs  
-- **Uber Driver Net Profit Calculator** (WIP) – Personal project to track true freelance driver earnings  
-- **LeetCode Solutions** – Coming soon
+## 🚧 Projects
+- **[Basic Banking Program](https://github.com/mo8047/Basic-Banking-Program)** – CLI simulation: deposit, withdraw, balance.
+- **[Simple Slots Game](https://github.com/mo8047/Simple-Slots-game)** – Basic slot machine with user input.
+- **[Hangman Game](https://github.com/mo8047/hangman_game)** – Classic hangman implementation.
+- **Uber Driver Profit Calculator (WIP)** – Tool to help freelance drivers track net earnings.
+- **LeetCode Solutions** – Coming soon (will add once you start solving).
 
 ---
 
-## 📊 GitHub Stats
-
+## 📈 GitHub Stats
 ![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo8047&show_icons=true&theme=radical)
 
 ---
 
 ## 🎯 Goals
-- Build and publish 3+ solid projects  
-- Polish frontend skills  
-- Apply myself to the job market with confidence
+- Build & publish 3+ polished projects (with live demo if possible).
+- Push LeetCode daily for interviews.
+- Apply to internships and jobs with a standout portfolio.
 
 ---
 
-## 📫 Let's Connect
-- LinkedIn: www.linkedin.com/in/muhammad-hasan-al-wahaily-a9199231b
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/muhammad-hasan-al-wahaily-a9199231b)
