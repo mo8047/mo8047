@@ -22,8 +22,7 @@
 
 ## 🎯 Goals
 - Build & publish 3+ polished projects (with live demo if possible).
-- Push LeetCode daily for interviews.
-- Apply to internships and jobs with a standout portfolio.
+- Push LeetCode daily. 
 
 ---
 
