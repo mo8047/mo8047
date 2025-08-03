@@ -20,6 +20,11 @@
 
 ---
 
+## 💻TryHackMe Stats
+<img src="https://tryhackme-badges.s3.amazonaws.com/mo8047.png" alt="Your Image Badge" />
+
+---
+
 ## 🎯 Goals
 - Build & publish 3+ polished projects (with live demo if possible).
 - Push LeetCode daily. 
