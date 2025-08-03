@@ -4,15 +4,8 @@
 ---
 
 ## 🛠 Tech Stack
-- Python 🐍 • Git & GitHub 🔧 • HTML/CSS • Basic C/Java  
----
-
-## 🚧 Projects
-- **[Basic Banking Program](https://github.com/mo8047/Basic-Banking-Program)** – CLI simulation: deposit, withdraw, balance.
-- **[Simple Slots Game](https://github.com/mo8047/Simple-Slots-game)** – Basic slot machine with user input.
-- **[Hangman Game](https://github.com/mo8047/hangman_game)** – Classic hangman implementation.
-- **LeetCode Solutions** – WIP When I finish my beginner journey.
-
+- Python 🐍 • Git & GitHub 🔧 • HTML/CSS • Basic C/Java
+  
 ---
 
 ## 📈 GitHub Stats
@@ -27,7 +20,7 @@
 
 ## 🎯 Goals
 - Build & publish 3+ polished projects (with live demo if possible).
-- Push LeetCode daily. 
+- Push LeetCode and TryHackMe daily. 
 
 ---
 
