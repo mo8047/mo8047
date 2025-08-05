@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Hasan
 
-**Computer Science Student** focused on building real projects and sharpening my Python skills.
+**Computer Science Student** focused on building real projects and sharpening my Python skills. 
 --- 
 
 ## 🛠 Tech Stack
